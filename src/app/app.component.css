@@ -1,0 +1,10 @@
+button {
+  cursor: pointer;
+
+
+}
+
+button[disabled] {
+  cursor: default;
+  color: grey;
+}
